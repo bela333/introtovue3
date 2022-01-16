@@ -20,3 +20,5 @@
 - html
 - css
 
+# Feladat:
+## Készíts egy komponenst ami kap egy színt jellemzőként, majd a mostani kép helyett, kirakja a megfelelő képet, alá kiírja a színt, valamint beállítja az alternatív szöveget (alt) és a címet(title) az adott színre
