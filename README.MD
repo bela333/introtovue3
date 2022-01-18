@@ -1,24 +1,26 @@
-# introtovue3
+# Tesztkérdések
 
-# Questions
+## 1. Milyen elemekből áll össze egy Component:
 
-## Milyen elemekből áll össze egy Component:
-- Név, Sablon
+- Név, Sablon `(helyes válasz)`
 - Index, Kép
 - Js, HTML
 - Név, JS
 
- ## Hol tároljuk a globális változókat?
-- main.js
+ ## 2. Hol tároljuk a globális változókat?
+ 
+- main.js `(helyes válasz)`
 - Component.js
 - index.HTML
 - Sehol
 
-## Milyen típusú file-ban hozzuk létre a Komponenseket?
-- js
+## 3. Milyen típusú file-ban hozzuk létre a Komponenseket?
+
+- js `(helyes válasz)`
 - ts
 - html
 - css
 
 # Feladat:
-## Készíts egy komponenst ami kap egy színt jellemzőként, majd a mostani kép helyett, kirakja a megfelelő képet, alá kiírja a színt, valamint beállítja az alternatív szöveget (alt) és a címet(title) az adott színre
+
+Készítsen egy komponenst ami kap egy színt jellemzőként, majd a mostani kép helyett, kirakja a megfelelő képet, alá kiírja a színt, valamint beállítja az alternatív szöveget (alt) és a címet(title) az adott színre
